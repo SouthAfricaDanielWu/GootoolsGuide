@@ -9,6 +9,7 @@ import java.awt.*;
  * Date:2019-07-18 11:03
  */
 public class JFrameTest extends JFrame {
+
     public void CrateFrame(String title)
     {
         JFrame jFrame=new JFrame(title);
